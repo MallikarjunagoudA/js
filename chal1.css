@@ -1,0 +1,17 @@
+.container-1 {
+  background-color: orange;
+}
+.flex-box-container-1 {
+  border: 5px solid blue;
+  padding: 10px;
+  display: flex;
+  background-color: green;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.flex-box-container-1 div {
+  padding: 10px;
+  border: 1px solid gray;
+}

@@ -1,0 +1,14 @@
+//just like python dictonary
+
+[
+  {
+    "name": "besty",
+    "age": 22,
+    "height": 200
+  },
+  {
+    "name": "bestie",
+    "age": 23,
+    "height": 220
+  }
+]
